@@ -1,6 +1,6 @@
 ---
 
-# Job Connect API
+Job Connect API
 
 **Job Connect API** is a robust backend solution built using Django REST Framework (DRF). It powers a job preparation and connection platform designed to help job seekers and recruiters efficiently connect, share insights, and manage their job-related activities.
 
