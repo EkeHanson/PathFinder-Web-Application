@@ -43,7 +43,7 @@ Job Connect API
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/job-connect-api.git](https://github.com/EkeHanson/PathFinder-Web-Application.git
+   git clone https://github.com/EkeHanson/PathFinder-Web-Application.git
    cd job_connect
    ```
 
